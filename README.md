@@ -3,7 +3,7 @@
 - 🌍 I'm based in East london
 - 💻 I'm a Junior Developer at GMT
 - 🌱 Currently learning: Power Apps, APIs, and Microsoft technologies
-- 📫 Reach me at: eletu@gmt6.com
+- 📫 Reach me at: eleturafuza@gmail.com
 
 ### ⚡ Skills
 - Power Apps
