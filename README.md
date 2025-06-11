@@ -37,7 +37,7 @@
 ---
 
 ### 📈 GitHub Stats
-![EletuRafuza GitHub stats](https://github-readme-stats.vercel.app/api?EletuRafuza&show_icons=true&theme=default)
+![Eletu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EletuRafuza&show_icons=true&theme=default)
 
 ---
 
